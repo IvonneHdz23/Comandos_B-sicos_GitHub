@@ -1,0 +1,5 @@
+//Apuntes de git
+git init	inicializar un proyecto nuevo d egit
+gid add.	Agrega lso archivos a git(el punto  indica a todos los archivos, en caso de solo querer solo 1 archivo cambiar el punto por el nombre del archivo)
+git commit -m "mensaje"		comando para indicar los cambios realizafos
+git push 	subir al repositorio remoto
